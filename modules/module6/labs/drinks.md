@@ -1,0 +1,16 @@
+# Computational : The Nerd's Network Guide to Cocktails
+
+Have you ever been indecisive on what drink to order? I am sure you have had and maybe you have even asked your bartender to "surprise" you with a creation. What if your bartender was a computer scientist that can really only understand algorithms (i.e., not artistic or creative at all)?  If (s)he was like me that "sees" networks everywhere (s)he would go to the CocktailDB, download the recipes through their useful API for several cocktails and take it from there.
+
+[The CocktailDB](http://www.thecocktaildb.com)
+
+The API can be accessed here: http://www.thecocktaildb.com/API
+
+You will see the actual data for all drinks in the database. Here are some questions I'd like you to answer, [using my downloaded copy of the database](./drinks.json).
+
+1. What are the most common ingredients in alcoholic drinks?
+2. What are the most common ingredients in non-alcoholic drinks?
+3. What 2 ingredients occur together most often? What about in alcoholic versus non-alcoholic?
+4. What 4 ingredients occur together most often? What about in alcoholic versus non-alcoholic?
+
+Conduct your analysis in R or Python. 
